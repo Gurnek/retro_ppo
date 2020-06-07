@@ -1,0 +1,5 @@
+*.log
+test.py
+scenarios
+__pycache__
+_vizdoom
